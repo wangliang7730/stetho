@@ -1,5 +1,5 @@
 # Stetho [![Build Status](https://travis-ci.org/facebook/stetho.svg?branch=master)](https://travis-ci.org/facebook/stetho)
-
+　2015年　stetho 是开源大户 Facebook 提供的一款 Android 调试神器，可以在 Chrome 上像调试 Web App 一样，调试 Android Native App, 听起来就很酷，但感觉只是刚发布时红过一阵子。
 [Stetho](https://facebook.github.io/stetho) is a sophisticated debug bridge for Android applications. When enabled,
 developers have access to the Chrome Developer Tools feature natively part of
 the Chrome desktop browser. Developers can also choose to enable the optional
